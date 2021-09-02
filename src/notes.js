@@ -22,5 +22,16 @@ const notes = [
     title: "Hardware vs. Software",
     content:
       "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
+  },
+
+  {
+    key: 5,
+    title: "Remote Gig",
+    content:
+      "More and more people are now interested in remote work. Since have had a taste of off it. The meal was cooked as a result of the pandemic and now the people want more of remote work. What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
   }
+
+
 ];
+
+export default notes;
